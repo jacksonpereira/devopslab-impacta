@@ -1,2 +1,2 @@
 # devops-experience
-Palestra no DevOps Experience
+Laboratório DevOps Experience do MBA de Arquitetura de Soluções Digitais
